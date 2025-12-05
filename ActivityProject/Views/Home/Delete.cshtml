@@ -1,0 +1,11 @@
+﻿@model Activity
+
+<h2>حذف فعالیت</h2>
+
+<p>آیا از حذف '@Model.Name' مطمئن هستید؟</p>
+
+<form asp-action="Delete" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">حذف</button>
+    <a asp-action="Index" class="btn btn-secondary">انصراف</a>
+</form>

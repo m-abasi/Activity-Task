@@ -1,0 +1,48 @@
+﻿
+@model ICollection<Activity>
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Persis Company Task - Mahdi Abasi</a>.</p>
+</div>
+
+
+@{
+    ViewBag.Title = "Activity List";
+}
+
+<h2>Activity List</h2>
+
+<table class="table table-bordered table-hover">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Code</th>
+            <th>IsActive</th>
+            <th>Operations</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.Id
+                </td>
+                <td>
+                    @item.Name
+                </td>
+                <td>
+                    @item.Code
+                </td>
+                <td>
+                    @item.IsActive
+                </td>
+                <td>
+                    @Html.ActionLink("ویرایش", "Edit", new { id = item.Id }) |
+                    @Html.ActionLink("حذف", "Delete", new { id = item.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
