@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\ActivityProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BE3F7E1-6FE9-4830-8637-5E2AE7378226}|ActivityProject\\ActivityProject.csproj|c:\\users\\asus\\source\\repos\\activityproject\\activityproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5BE3F7E1-6FE9-4830-8637-5E2AE7378226}|ActivityProject\\ActivityProject.csproj|solutionrelative:activityproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7582E34A-7E98-01DC-12E8-90DB4308D87C}|ActivityProject\\ActivityProject.csproj|c:\\users\\asus\\source\\repos\\activityproject\\activityproject\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7582E34A-7E98-01DC-12E8-90DB4308D87C}|ActivityProject\\ActivityProject.csproj|solutionrelative:activityproject\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BE3F7E1-6FE9-4830-8637-5E2AE7378226}|ActivityProject\\ActivityProject.csproj|c:\\users\\asus\\source\\repos\\activityproject\\activityproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5BE3F7E1-6FE9-4830-8637-5E2AE7378226}|ActivityProject\\ActivityProject.csproj|solutionrelative:activityproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7582E34A-7E98-01DC-12E8-90DB4308D87C}|ActivityProject\\ActivityProject.csproj|c:\\users\\asus\\source\\repos\\activityproject\\activityproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7582E34A-7E98-01DC-12E8-90DB4308D87C}|ActivityProject\\ActivityProject.csproj|solutionrelative:activityproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BE3F7E1-6FE9-4830-8637-5E2AE7378226}|ActivityProject\\ActivityProject.csproj|c:\\users\\asus\\source\\repos\\activityproject\\activityproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BE3F7E1-6FE9-4830-8637-5E2AE7378226}|ActivityProject\\ActivityProject.csproj|solutionrelative:activityproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7582E34A-7E98-01DC-12E8-90DB4308D87C}|ActivityProject\\ActivityProject.csproj|c:\\users\\asus\\source\\repos\\activityproject\\activityproject\\views\\home\\adding.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7582E34A-7E98-01DC-12E8-90DB4308D87C}|ActivityProject\\ActivityProject.csproj|solutionrelative:activityproject\\views\\home\\adding.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BE3F7E1-6FE9-4830-8637-5E2AE7378226}|ActivityProject\\ActivityProject.csproj|c:\\users\\asus\\source\\repos\\activityproject\\activityproject\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5BE3F7E1-6FE9-4830-8637-5E2AE7378226}|ActivityProject\\ActivityProject.csproj|solutionrelative:activityproject\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7582E34A-7E98-01DC-12E8-90DB4308D87C}|ActivityProject\\ActivityProject.csproj|c:\\users\\asus\\source\\repos\\activityproject\\activityproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7582E34A-7E98-01DC-12E8-90DB4308D87C}|ActivityProject\\ActivityProject.csproj|solutionrelative:activityproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BE3F7E1-6FE9-4830-8637-5E2AE7378226}|ActivityProject\\ActivityProject.csproj|c:\\users\\asus\\source\\repos\\activityproject\\activityproject\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5BE3F7E1-6FE9-4830-8637-5E2AE7378226}|ActivityProject\\ActivityProject.csproj|solutionrelative:activityproject\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7582E34A-7E98-01DC-12E8-90DB4308D87C}|ActivityProject\\ActivityProject.csproj|c:\\users\\asus\\source\\repos\\activityproject\\activityproject\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7582E34A-7E98-01DC-12E8-90DB4308D87C}|ActivityProject\\ActivityProject.csproj|solutionrelative:activityproject\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BE3F7E1-6FE9-4830-8637-5E2AE7378226}|ActivityProject\\ActivityProject.csproj|c:\\users\\asus\\source\\repos\\activityproject\\activityproject\\views\\home\\adding.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5BE3F7E1-6FE9-4830-8637-5E2AE7378226}|ActivityProject\\ActivityProject.csproj|solutionrelative:activityproject\\views\\home\\adding.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7582E34A-7E98-01DC-12E8-90DB4308D87C}|ActivityProject\\ActivityProject.csproj|c:\\users\\asus\\source\\repos\\activityproject\\activityproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7582E34A-7E98-01DC-12E8-90DB4308D87C}|ActivityProject\\ActivityProject.csproj|solutionrelative:activityproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BE3F7E1-6FE9-4830-8637-5E2AE7378226}|ActivityProject\\ActivityProject.csproj|c:\\users\\asus\\source\\repos\\activityproject\\activityproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BE3F7E1-6FE9-4830-8637-5E2AE7378226}|ActivityProject\\ActivityProject.csproj|solutionrelative:activityproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7582E34A-7E98-01DC-12E8-90DB4308D87C}|ActivityProject\\ActivityProject.csproj|c:\\users\\asus\\source\\repos\\activityproject\\activityproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7582E34A-7E98-01DC-12E8-90DB4308D87C}|ActivityProject\\ActivityProject.csproj|solutionrelative:activityproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BE3F7E1-6FE9-4830-8637-5E2AE7378226}|ActivityProject\\ActivityProject.csproj|c:\\users\\asus\\source\\repos\\activityproject\\activityproject\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BE3F7E1-6FE9-4830-8637-5E2AE7378226}|ActivityProject\\ActivityProject.csproj|solutionrelative:activityproject\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7582E34A-7E98-01DC-12E8-90DB4308D87C}|ActivityProject\\ActivityProject.csproj|c:\\users\\asus\\source\\repos\\activityproject\\activityproject\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7582E34A-7E98-01DC-12E8-90DB4308D87C}|ActivityProject\\ActivityProject.csproj|solutionrelative:activityproject\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BE3F7E1-6FE9-4830-8637-5E2AE7378226}|ActivityProject\\ActivityProject.csproj|c:\\users\\asus\\source\\repos\\activityproject\\activityproject\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BE3F7E1-6FE9-4830-8637-5E2AE7378226}|ActivityProject\\ActivityProject.csproj|solutionrelative:activityproject\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7582E34A-7E98-01DC-12E8-90DB4308D87C}|ActivityProject\\ActivityProject.csproj|c:\\users\\asus\\source\\repos\\activityproject\\activityproject\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7582E34A-7E98-01DC-12E8-90DB4308D87C}|ActivityProject\\ActivityProject.csproj|solutionrelative:activityproject\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ActivityProject\\ActivityProject\\Views\\Home\\Delete.cshtml",
               "RelativeDocumentMoniker": "ActivityProject\\Views\\Home\\Delete.cshtml",
@@ -62,25 +62,24 @@
               "RelativeToolTip": "ActivityProject\\Views\\Home\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-05T16:01:39.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T16:01:39.199Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ActivityProject\\ActivityProject\\Views\\Home\\Edit.cshtml",
               "RelativeDocumentMoniker": "ActivityProject\\Views\\Home\\Edit.cshtml",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ActivityProject\\ActivityProject\\Views\\Home\\Edit.cshtml",
               "RelativeToolTip": "ActivityProject\\Views\\Home\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-12-05T10:37:23.042Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Adding.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ActivityProject\\ActivityProject\\Views\\Home\\Adding.cshtml",
               "RelativeDocumentMoniker": "ActivityProject\\Views\\Home\\Adding.cshtml",
@@ -93,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ActivityProject\\ActivityProject\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ActivityProject\\Views\\Shared\\_Layout.cshtml",
@@ -101,12 +100,11 @@
               "RelativeToolTip": "ActivityProject\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-12-05T09:36:25.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T09:36:25.66Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ActivityProject\\ActivityProject\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ActivityProject\\Views\\Home\\Index.cshtml",
@@ -119,13 +117,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ActivityProject\\ActivityProject\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ActivityProject\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\ActivityProject\\ActivityProject\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ActivityProject\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAcwHEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwGQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-05T08:55:46.245Z",
               "EditorCaption": ""
@@ -140,12 +138,11 @@
               "RelativeToolTip": "ActivityProject\\Program.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T08:55:31.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T08:55:31.52Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ActivityProject\\ActivityProject\\DbContext\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ActivityProject\\DbContext\\AppDbContext.cs",
@@ -153,12 +150,11 @@
               "RelativeToolTip": "ActivityProject\\DbContext\\AppDbContext.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T08:30:44.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T08:30:44.39Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Activity.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\ActivityProject\\ActivityProject\\Models\\Activity.cs",
               "RelativeDocumentMoniker": "ActivityProject\\Models\\Activity.cs",
@@ -166,8 +162,7 @@
               "RelativeToolTip": "ActivityProject\\Models\\Activity.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-05T08:13:15.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-05T08:13:15.936Z"
             }
           ]
         }

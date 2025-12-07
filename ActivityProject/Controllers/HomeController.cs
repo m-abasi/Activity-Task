@@ -28,19 +28,28 @@ namespace ActivityProject.Controllers
         [HttpPost]
         public IActionResult Adding(Activity activity)
         {
-            if (_context.activities.Any(u => u.Code == activity.Code))
+            if (_context.activities.Any(a => a.Code == activity.Code))
             {
                 ModelState.AddModelError("Code", "این کد قبلاً ثبت شده است.");
                 return View(activity);
             }
+
+            if (_context.activities.Any(a => a.Name == activity.Name))
+            {
+                ModelState.AddModelError("Name", "این نام قبلاً ثبت شده است.");
+                return View(activity);
+            }
+
             if (ModelState.IsValid)
             {
                 _context.activities.Add(activity);
-                 _context.SaveChanges();
+                _context.SaveChanges();
                 return RedirectToAction(nameof(Index));
             }
+
             return View(activity);
         }
+
         public IActionResult Edit(int id)
         {
             var activity = _context.activities.FirstOrDefault(a => a.Id == id);
@@ -65,11 +74,23 @@ namespace ActivityProject.Controllers
             var activity = _context.activities.FirstOrDefault(a => a.Id == updatedActivity.Id);
             if (activity == null)
             {
-                TempData["ErrorMessage"] = "فعالیت مورد نظر وجود ندارد.";
                 return RedirectToAction("Index");
             }
 
+            if (_context.activities.Any(a => a.Code == updatedActivity.Code && a.Id != updatedActivity.Id))
+            {
+                ModelState.AddModelError("Code", "این کد قبلاً برای فعالیت دیگری ثبت شده است.");
+                return View(updatedActivity);
+            }
+
+            if (_context.activities.Any(a => a.Name == updatedActivity.Name && a.Id != updatedActivity.Id))
+            {
+                ModelState.AddModelError("Name", "این نام قبلاً برای فعالیت دیگری ثبت شده است.");
+                return View(updatedActivity);
+            }
+
             activity.Name = updatedActivity.Name;
+            activity.Code = updatedActivity.Code; 
             activity.IsActive = updatedActivity.IsActive;
 
             _context.SaveChanges();
@@ -77,6 +98,7 @@ namespace ActivityProject.Controllers
 
             return RedirectToAction("Index");
         }
+
 
         public IActionResult Delete(int id)
         {
